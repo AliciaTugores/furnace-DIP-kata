@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FurnaceDIP/FurnaceDIP.iml" filepath="$PROJECT_DIR$/FurnaceDIP/FurnaceDIP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/furnace-DIP-kata.iml" filepath="$PROJECT_DIR$/.idea/furnace-DIP-kata.iml" />
+    </modules>
+  </component>
+</project>
